@@ -1,9 +1,11 @@
 {
-  "name": "list-datapartners",
-  "version": "1.0.0",
-  "description": "Ocean Protocol's Data Partners list",
-  "main": "index.js",
+  "name": "@oceanprotocol/list-datapartners",
+  "version": "0.0.1",
+  "description": "Ocean Protocol's Data Partners list.",
+  "typings": "./index.d.ts",
   "scripts": {
+    "release": "release-it --non-interactive",
+    "changelog": "auto-changelog -p",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +17,33 @@
   "bugs": {
     "url": "https://github.com/oceanprotocol/list-datapartners/issues"
   },
-  "homepage": "https://github.com/oceanprotocol/list-datapartners#readme"
+  "homepage": "https://github.com/oceanprotocol/list-datapartners#readme",
+  "release-it": {
+    "hooks": {
+      "after:bump": "npm run changelog"
+    },
+    "plugins": {
+      "@release-it/bumper": {
+        "out": [
+          "package.json",
+          "package-lock.json"
+        ]
+      }
+    },
+    "git": {
+      "tagName": "v${version}"
+    },
+    "github": {
+      "release": true
+    },
+    "npm": {
+      "publish": false
+    }
+  },
+  "devDependencies": {
+    "@release-it/bumper": "^2.0.0",
+    "auto-changelog": "^2.2.1",
+    "prettier": "^2.1.2",
+    "release-it": "^14.2.1"
+  }
 }

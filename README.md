@@ -24,6 +24,29 @@ After every change, a new version of the list needs to be released:
 npm run release
 ```
 
+## ⬆️ Releases
+
+Releases are managed semi-automatically. They are always manually triggered from a developer's machine with release scripts.
+
+### Production
+
+From a clean `main` branch you can run the release task bumping the version accordingly based on semantic versioning:
+
+```bash
+npm run release
+```
+
+The task does the following:
+
+- bumps the project version in `package.json`, `package-lock.json`
+- auto-generates and updates the CHANGELOG.md file from commit messages
+- creates a Git tag
+- commits and pushes everything
+- creates a GitHub release with commit messages as description
+- Git tag push will trigger Travis to do a npm release
+
+For the GitHub releases steps a GitHub personal access token, exported as `GITHUB_TOKEN` is required. [Setup](https://github.com/release-it/release-it#github-releases)
+
 ## 🏛 License
 
 ```text
