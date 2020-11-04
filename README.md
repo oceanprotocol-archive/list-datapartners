@@ -1,8 +1,8 @@
 [![banner](https://raw.githubusercontent.com/oceanprotocol/art/master/github/repo-banner%402x.png)](https://oceanprotocol.com)
 
-<h1 align="center">list-datapartners</h1>
-
-<img width="200" src="https://user-images.githubusercontent.com/90316/98151094-ef7de180-1ecf-11eb-8ab2-6bf95318f02d.png" />
+<h1 align="center" title="list-datapartners">
+   <img width="300" src="https://user-images.githubusercontent.com/90316/98151631-c14cd180-1ed0-11eb-91f8-f8fd73f92b29.png" /><br />
+</h1>
 
 > Ocean Protocol's Data Partners list
 
