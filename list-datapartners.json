@@ -14,5 +14,13 @@
       "Home": "https://thalus.ai",
       "Twitter": "https://twitter.com/thalus_ai"
     }
+  },
+  {
+    "name": "Transport Genie",
+    "accounts": ["0x61Ae4E8691335569776eEAd72D16f4f002E64a56"],
+    "links": {
+      "Home": "https://transportgenie.ca",
+      "Twitter": "https://twitter.com/Transportgenie"
+    }
   }
 ]
