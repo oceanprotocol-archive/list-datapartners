@@ -11,6 +11,7 @@ https://blog.oceanprotocol.com/announcing-ocean-market-data-launch-partners-3b53
 ---
 
 - [🦑 How to become a data partner](#-how-to-become-a-data-partner)
+- [🤿 List Schema](#-list-schema)
 - [🏄‍♀️ List Usage](#️-list-usage)
 - [⬆️ Releases](#️-releases)
 - [🏛 License](#-license)
@@ -20,6 +21,24 @@ https://blog.oceanprotocol.com/announcing-ocean-market-data-launch-partners-3b53
 ## 🦑 How to become a data partner
 
 _outline process_
+
+## 🤿 List Schema
+
+For each partner:
+
+```json
+{
+  "name": "Partner Company Name",
+  "accounts": ["0x00000000000000000000"],
+  "links": {
+    "Home": "https://website.com",
+    "Twitter": "https://twitter.com/@HANDLE"
+  }
+},
+{
+   ...
+}
+```
 
 ## 🏄‍♀️ List Usage
 
