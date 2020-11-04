@@ -2,6 +2,8 @@
 
 <h1 align="center">list-datapartners</h1>
 
+<img width="200" src="https://user-images.githubusercontent.com/90316/98151094-ef7de180-1ecf-11eb-8ab2-6bf95318f02d.png" />
+
 > Ocean Protocol's Data Partners list
 
 https://blog.oceanprotocol.com/announcing-ocean-market-data-launch-partners-3b531601e63a
