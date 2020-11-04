@@ -31,6 +31,12 @@ This list is published as a npm module and the [`market`](https://github.com/oce
 
 After every change, a new version of the list needs to be released.
 
+You can also directly fetch the list from the `main` branch:
+
+```text
+https://raw.githubusercontent.com/oceanprotocol/list-datapartners/main/list-datapartners.json
+```
+
 ## ⬆️ Releases
 
 Releases are managed semi-automatically. They are always manually triggered from a developer's machine with release scripts.
