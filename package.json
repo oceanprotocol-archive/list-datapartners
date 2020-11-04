@@ -1,0 +1,19 @@
+{
+  "name": "list-datapartners",
+  "version": "1.0.0",
+  "description": "Ocean Protocol's Data Partners list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oceanprotocol/list-datapartners.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/oceanprotocol/list-datapartners/issues"
+  },
+  "homepage": "https://github.com/oceanprotocol/list-datapartners#readme"
+}
