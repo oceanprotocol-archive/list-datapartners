@@ -6,29 +6,32 @@
 
 https://blog.oceanprotocol.com/announcing-ocean-market-data-launch-partners-3b531601e63a
 
-## How to become a data partner
+---
+
+- [🦑 How to become a data partner](#-how-to-become-a-data-partner)
+- [🏄‍♀️ List Usage](#️-list-usage)
+- [⬆️ Releases](#️-releases)
+- [🏛 License](#-license)
+
+---
+
+## 🦑 How to become a data partner
 
 _outline process_
 
-## List Usage
+## 🏄‍♀️ List Usage
 
 ```bash
 npm i @oceanprotocol/list-datapartners
 ```
 
-This list is published as a npm module and our [`market`](https://github.com/oceanprotocol/market) uses it as a dependency to enhance the UI for those data partners.
+This list is published as a npm module and the [`market`](https://github.com/oceanprotocol/market) uses it as a dependency to enhance the UI for those data partners.
 
-After every change, a new version of the list needs to be released:
-
-```bash
-npm run release
-```
+After every change, a new version of the list needs to be released.
 
 ## ⬆️ Releases
 
 Releases are managed semi-automatically. They are always manually triggered from a developer's machine with release scripts.
-
-### Production
 
 From a clean `main` branch you can run the release task bumping the version accordingly based on semantic versioning:
 
