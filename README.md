@@ -60,12 +60,16 @@ JavaScript usage:
 
 ```js
 import listPartners from '@oceanprotocol/list-datapartners'
+
+// old-school
+const listPartners = require('@oceanprotocol/list-datapartners')
 ```
 
 TypeScript usage:
 
 ```ts
-import listPartners, { PartnerData } from '@oceanprotocol/list-datapartners'
+import listPartners from '@oceanprotocol/list-datapartners'
+import { PartnerData } from '@oceanprotocol/list-datapartners/types'
 ```
 
 ## ⬆️ Releases
