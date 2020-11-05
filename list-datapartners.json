@@ -27,7 +27,7 @@
     "name": "CivicTechHub",
     "accounts": [],
     "links": {
-      "Home": "https://civictechhub.org/"
+      "Home": "https://civictechhub.org/",
       "Twitter": "https://twitter.com/civictechhub"
    }
   },
@@ -39,4 +39,3 @@
       "Twitter": "https://twitter.com/HumanProtocol"
 	}
   }]
-
