@@ -2,7 +2,8 @@
   "name": "@oceanprotocol/list-datapartners",
   "version": "0.0.1",
   "description": "Ocean Protocol's Data Partners list.",
-  "typings": "./index.d.ts",
+  "main": "./list-datapartners.json",
+  "types": "./index.ts",
   "scripts": {
     "release": "release-it --non-interactive",
     "changelog": "auto-changelog -p",
@@ -11,6 +12,12 @@
     "format": "npm run prettier -- --write",
     "test": "npm run lint"
   },
+  "files": [
+    "index.js",
+    "list-datapartners.json",
+    "README.md",
+    "types.d.ts"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/oceanprotocol/list-datapartners.git"

@@ -56,6 +56,18 @@ You can also directly fetch the list from the `main` branch:
 https://raw.githubusercontent.com/oceanprotocol/list-datapartners/main/list-datapartners.json
 ```
 
+JavaScript usage:
+
+```js
+import listPartners from '@oceanprotocol/list-datapartners'
+```
+
+TypeScript usage:
+
+```ts
+import listPartners, { PartnerData } from '@oceanprotocol/list-datapartners'
+```
+
 ## ⬆️ Releases
 
 Releases are managed semi-automatically. They are always manually triggered from a developer's machine with release scripts.
