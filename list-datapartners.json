@@ -2,89 +2,41 @@
   {
     "name": "SwashData Tech Oy",
     "accounts": ["0x242752acA5c560457a3C49d17d6F7824a595af18"],
-    "links": {https://market.oceanprotocol.com/search/?text=0x242752acA5c560457a3C49d17d6F7824a595af18
+    "links": {
       "Home": "https://swashapp.io",
       "Twitter": "https://twitter.com/swashapp"
     }
   },
   {
-    "name": "Thalus AI", SCAM?
+    "name": "Transport Genie",
+    "accounts": ["0x61Ae4E8691335569776eEAd72D16f4f002E64a56"],
+    "links": {
+      "Home": "https://www.transportgenie.ca/",
+      "Twitter": "https://twitter.com/TransportGenie"
+    }
+  },
+  {
+    "name": "Thalus AI",
     "accounts": ["0x370366a853d67ace92cb219354b02FE02eAF6036"],
-    "links": {https://market.oceanprotocol.com/asset/did:op:B8334421ec9086BdaAEaDf48EAaf3B435eA1df70
-      "Home": "https://thalus.ai",
-      "Twitter": "https://twitter.com/thalus_ai"
-}
-  },
-  {
-    "name": "Thalus AI", SCAM?
-    "accounts": ["0xA86a8A41c1cc6B3daa9de476Aa3bfbb43e5329bD"],
-    "links": {https://market.oceanprotocol.com/asset/did:op:953DD3e620f205c3acf77f683a0A17140425e016
+    "links": {
       "Home": "https://thalus.ai",
       "Twitter": "https://twitter.com/thalus_ai"
     }
   },
   {
-    "name": "CivicTechHub", SCAM
-    "accounts": ["0xFB2BE81E0d5C04736B63B13F094258de635E8828"],
-    "links": {https://market.oceanprotocol.com/asset/did:op:78e825FcA418f8a1d566e1CF2fB11b6369b01CB2
-      "Home":
-      "Twitter": 
-   }
-  },
-  {
-    "name": "Human Protocol", SCAM
-    "accounts": ["0x61e6a11f784428100Bf24938769bC40E955cc916"],
-    "links": {https://market.oceanprotocol.com/asset/did:op:889ef0AcdF490e52eff8899EDe39b90108C165A3
-      "Home": "https://transportgenie.ca",
-      "Twitter": "https://twitter.com/Transportgenie"
-	}
-  },
-  {  
-	"name": "Transport Genie",
-    "accounts": ["0x61Ae4E8691335569776eEAd72D16f4f002E64a56"],
-    "links": {https://market.oceanprotocol.com/asset/did:op:Ac3a39F843316c83Db11a9E6D703a7473c26aCe0
-      "Home": "https://transportgenie.ca",
-      "Twitter": "https://twitter.com/Transportgenie"
+    "name": "CivicTechHub",
+    "accounts": [],
+    "links": {
+      "Home": "https://civictechhub.org/",
+      "Twitter": "https://twitter.com/civictechhub"
     }
   },
   {
-	"name": "Transport Genie",
-    "accounts": ["0x61Ae4E8691335569776eEAd72D16f4f002E64a56"],
-    "links": {https://market.oceanprotocol.com/asset/did:op:1457D986d8c9c80D32f557E28984C61f6Cf5B31E
-      "Home": "https://transportgenie.ca",
-      "Twitter": "https://twitter.com/Transportgenie"			
+    "name": "Human Protocol",
+    "accounts": [],
+    "links": {
+      "Home": "https://www.hmt.ai/",
+      "Twitter": "https://twitter.com/HumanProtocol"
     }
-  },
-  {		
-	  "name": "Transport Genie",
-    "accounts": ["0x61Ae4E8691335569776eEAd72D16f4f002E64a56"],
-    "links": {https://market.oceanprotocol.com/asset/did:op:784002569298b13982E313B5fa37757d85b79c7b
-      "Home": "https://transportgenie.ca",
-      "Twitter": "https://twitter.com/Transportgenie"	
-   }
-  },
-  {		
-	  "name": "Transport Genie", SCAM?
-    "accounts": ["0x61Ae4E8691335569776eEAd72D16f4f002E64a56"],
-    "links": {https://market.oceanprotocol.com/asset/did:op:fd28195e3d30d5a63a87A2502030CE648FFa4884
-      "Home": "https://transportgenie.ca",
-      "Twitter": "https://twitter.com/Transportgenie"
- }
-  },
-  {		
-	  "name": "Transport Genie", SCAM?
-    "accounts": ["0x20360EAbf13a3b63A34bFD676E0Cf217A0e94D30"],
-    "links": {https://market.oceanprotocol.com/asset/did:op:868B8deD3c35808341A348A47065b022a8523902
-      "Home": "https://transportgenie.ca",
-      "Twitter": "https://twitter.com/Transportgenie"
- }
-  },
-  {		
-	  "name": "Transport Genie", SCAM?
-    "accounts": ["0xEAd6C16bb580159e5B103399a293B3a1Cc71F5EC"],
-    "links": {https://market.oceanprotocol.com/asset/did:op:f06a846A96CEBe670bB8C26C845cE72116dc908B
-      "Home": "https://transportgenie.ca",
-      "Twitter": "https://twitter.com/Transportgenie"
-	
-	
-
+  }
+]
