@@ -38,5 +38,13 @@
       "Home": "https://www.hmt.ai/",
       "Twitter": "https://twitter.com/HumanProtocol"
     }
+  },
+  {
+    "name": "Building Block Group",
+    "accounts": ["0xA969EE68E99ad9c31D8e5d64AC1474023a08c2d7"],
+    "links": {
+      "Home": "http://buildingblockgroup.com/",
+      "Twitter": "https://twitter.com/intersectBB"
+    }
   }
 ]
