@@ -1,6 +1,6 @@
 {
   "name": "@oceanprotocol/list-datapartners",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ocean Protocol's Data Partners list.",
   "main": "./list-datapartners.json",
   "types": "./index.ts",
