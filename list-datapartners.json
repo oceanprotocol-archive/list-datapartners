@@ -25,7 +25,7 @@
   },
   {
     "name": "CivicTechHub",
-    "accounts": [],
+    "accounts": ["0xD27adc10D58aF27bcDBa85081aDC09A4379969A5"],
     "links": {
       "Home": "https://civictechhub.org/",
       "Twitter": "https://twitter.com/civictechhub"
