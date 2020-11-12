@@ -46,5 +46,13 @@
       "Home": "http://buildingblockgroup.com/",
       "Twitter": "https://twitter.com/intersectBB"
     }
+  },
+  {
+    "name": "Innovation Atelier Ltd",
+    "accounts": ["0x12BD31628075C20919BA838b89F414241b8c4869"],
+    "links": {
+      "Home": "https://innovationatelier.com",
+      "Twitter": "https://twitter.com/@InnoAtelier"
+    }
   }
 ]
