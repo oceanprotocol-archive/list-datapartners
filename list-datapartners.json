@@ -1,5 +1,13 @@
 [
   {
+    "name": "DeFi Surf",
+    "accounts": ["0xf751033d4e6864a88be93e36258246f26aef577c"],
+    "links": {
+      "Home": "https://defi.surf/",
+      "Twitter": "https://twitter.com/defisurf"
+    }
+  },
+  {
     "name": "SwashData Tech Oy",
     "accounts": ["0x242752acA5c560457a3C49d17d6F7824a595af18"],
     "links": {
