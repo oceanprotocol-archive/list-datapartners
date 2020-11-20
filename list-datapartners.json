@@ -38,5 +38,13 @@
       "Home": "http://buildingblockgroup.com/",
       "Twitter": "https://twitter.com/intersectBB"
     }
+  },
+  {
+    "name": "Tapmydata",
+    "accounts": ["0xcb0510D1c4eA88CcD1F2395D075Af9e831C2F15d"],
+    "links": {
+      "Home": "https://tapmydata.com",
+      "Twitter": "https://twitter.com/tapmydata"
+    }
   }
 ]
