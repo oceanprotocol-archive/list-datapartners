@@ -20,7 +20,9 @@ https://blog.oceanprotocol.com/announcing-ocean-market-data-launch-partners-3b53
 
 ## 🦑 How to become a data partner
 
-_outline process_
+Ocean Protocol is not adding data partners at this time.
+
+Soon, there will be improved ways for the community to vet accounts. Stay tuned.
 
 ## 🤿 List Schema
 
