@@ -6,23 +6,19 @@
 
 > Ocean Protocol's Data Partners list
 
-https://blog.oceanprotocol.com/announcing-ocean-market-data-launch-partners-3b531601e63a
+---
+
+**This list has been deprecated with the release of decentralized profiles:**
+**https://twitter.com/shipping_ocean/status/1332280305605103616**
 
 ---
 
-- [🦑 How to become a data partner](#-how-to-become-a-data-partner)
 - [🤿 List Schema](#-list-schema)
 - [🏄‍♀️ List Usage](#️-list-usage)
 - [⬆️ Releases](#️-releases)
 - [🏛 License](#-license)
 
 ---
-
-## 🦑 How to become a data partner
-
-Ocean Protocol is not adding data partners at this time.
-
-Soon, there will be improved ways for the community to vet accounts. Stay tuned.
 
 ## 🤿 List Schema
 
